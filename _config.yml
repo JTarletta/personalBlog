@@ -2,8 +2,9 @@ title:              Blog JTar
 email:              juantarletta@gmail.com
 description:        Machine Learning Developer
 author:             Juan M. Tarletta
-baseurl:            ""
+baseurl:            "/jtarletta.github.io"
 url:                "https://Jtarletta.github.io"
+root:               /octo-5
 
 # Social Profiles
 twitter_username:   
