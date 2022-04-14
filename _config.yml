@@ -5,6 +5,7 @@ author:             Juan M. Tarletta
 baseurl:            "/personalBlog"
 url:                "https://Jtarletta.github.io"
 root:               /octo-5
+permalink:          pretty
 
 # Social Profiles
 twitter_username:   
