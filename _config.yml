@@ -2,7 +2,7 @@ title:              Blog JTarle
 email:              test@gmail.com
 description:        Machine Learning Developer
 author:             Juan M. Tarletta
-baseurl:            "/jtarletta.github.io"
+baseurl:            "personalBlog"
 url:                "https://Jtarletta.github.io"
 root:               /octo-5
 
