@@ -2,7 +2,7 @@
 layout: post
 title: "titulo del post"
 subtitle: "subtitutlo"
-date: 2020-01-26 23:45:13 -0400
+date: 2022-03-04 23:45:13 -0400
 background: '/img/posts/img-01.jpg'
 ---
 
