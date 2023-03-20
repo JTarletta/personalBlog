@@ -3,7 +3,7 @@ email:
 description:        Machine Learning | Python Dev
 author:             Juan M. Tarleπa
 baseurl:            "/personalBlog"
-url:                "https://Jtarletta.github.io"
+url:                jtarletta.com #"https://Jtarletta.github.io"
 root:               /octo-5
 permalink:          pretty
 
